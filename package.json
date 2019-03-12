@@ -1,0 +1,19 @@
+{
+  "name": "crocorythm",
+  "version": "0.0.0",
+  "description": "An algorithm to find the cheapest solution.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badmacstone/crocorythm.git"
+  },
+  "author": "Fabian Helpenstein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/badmacstone/crocorythm/issues"
+  },
+  "homepage": "https://github.com/badmacstone/crocorythm#readme"
+}
