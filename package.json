@@ -1,10 +1,11 @@
 {
   "name": "crocorythm",
   "version": "0.0.0",
-  "description": "An algorithm to find the cheapest solution.",
+  "description": "An algorithm to find the cheapest solution in a graph.",
   "main": "src/index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "lint": "./node_modules/.bin/eslint src/"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/badmacstone/crocorythm/issues"
   },
-  "homepage": "https://github.com/badmacstone/crocorythm#readme"
+  "homepage": "https://github.com/badmacstone/crocorythm#readme",
+  "devDependencies": {
+    "eslint": "^5.15.1"
+  }
 }
